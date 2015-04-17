@@ -1,0 +1,18 @@
+{
+	"name":"YAWA - Geotag the Photos",
+	"short_name":"geotag_yemen",
+	"category":"Yemeni Agricultural Water Assessment",
+	"description":"Geotag photos for the Yemeni Agricultural Water Assessment project",
+	"why":"TODO",
+	"icon_link":"https://upload.wikimedia.org/wikipedia/commons/6/6b/Yemen_-_Location_Map_%282013%29_-_YEM_-_UNOCHA.svg",
+	"questions":[
+		{
+			"id":1,
+			"title":"Can you geo-localize the photo?",
+			"type":"geotagging",
+			"answer":{
+				"saved_as":"latlancoords"
+			}
+		}
+	]
+}
