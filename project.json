@@ -2,9 +2,8 @@
 	"name":"YAWA - Geotag the Photos",
 	"short_name":"geotag_yemen",
 	"category":"Yemeni Agricultural Water Assessment",
-	"description":"Geotag photos for the Yemeni Agricultural Water Assessment project",
-	"why":"TODO",
-	"icon_link":"https://upload.wikimedia.org/wikipedia/commons/6/6b/Yemen_-_Location_Map_%282013%29_-_YEM_-_UNOCHA.svg",
+	"description":"Geotag photos for the Yemeni Agricultural Water Assessment project.",
+	"why":"This project helps map agricultural areas of the Raymah division of Yemen to help improve water use.",
 	"questions":[
 		{
 			"id":1,
