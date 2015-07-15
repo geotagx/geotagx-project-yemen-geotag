@@ -2,7 +2,7 @@ This module was created for UNITAR Operational Satellite Applications Programme'
 
 Much of this work has been done with satellite imagery, but photographs or videos of agricultural areas and practices in or near the Raymah division of Yemen were also valuable.
 
-Right now this project has few images, so if you have seen relevant media, you can [use the Geotag-X firefox plugin](http://geotagx.org/#find_photos) to share relevant media.
+Right now this project has few images, so if you have seen relevant media, you can [use the GeoTag-X browser plugin](http://geotagx.org/#find_photos) to share relevant media.
 
 Local knowledge of Raymah is valuable for geotagging photos in this module.
 
